@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "コインロッカーベイビー",
+  "base_artist": "MARETU",
+  "createdAt": "2025-12-26T02:28:06.162283Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "コインロッカーベイビー",
+      "artist": "Maretu",
+      "has_synced": true,
+      "path": "select/01_コインロッカーベイビー_Maretu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "コインロッカーベイビー",
+      "artist": "Maretu",
+      "has_synced": true,
+      "path": "select/02_コインロッカーベイビー_Maretu.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "コインロッカーベイビー",
+      "artist": "MARETU",
+      "has_synced": true,
+      "path": "select/03_コインロッカーベイビー_MARETU.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "コインロッカーベイビー",
+      "artist": "MARETU",
+      "has_synced": true,
+      "path": "select/04_コインロッカーベイビー_MARETU.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "コインロッカーベイビー",
+      "artist": "MARETU",
+      "has_synced": false,
+      "path": "select/pl_01_コインロッカーベイビー_MARETU.txt"
+    }
+  ]
+}
